@@ -28,9 +28,21 @@ header {
     position: absolute;
     top: 10px;
     right: 10px;
-    background-color: #ffcc00;
     padding: 5px;
     border: 1px solid #000;
+}
+
+/* Unique Colors for Section Titles */
+#section1 .section-title {
+    background-color: #ffcc00; /* Chicken */
+}
+
+#section2 .section-title {
+    background-color: #ff6666; /* Beef */
+}
+
+#section3 .section-title {
+    background-color: #66ccff; /* Sushi */
 }
 
 /* Desktop View */
